@@ -1152,6 +1152,11 @@ module.exports = {
 		"previous_action": "Previous",
 		"ignoreCase_alt": "Ignore case",
 		"matchCase_alt": "Match case",
-		"searchPage_label": "Search Page..."
+		"searchPage_label": "Search Page...",
+		"copy:_action": "Copy",
+		"cut_action": "Cut",
+		"paste_action": "Paste",
+		"undo_action": "Undo",
+		"redo_action": "Redo"
 	}
 }
